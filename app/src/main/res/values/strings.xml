@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VCare</string>
+    <string name="logout"><u>Logout</u></string>
+    <string name="treated">Treated</string>
+    <string name="under_treatment">Under Treatment</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="DATE">Date</string>
+    <string name="TIME">Time</string>
+    <string name="add_disease"><u>Add disease</u></string>
+</resources>

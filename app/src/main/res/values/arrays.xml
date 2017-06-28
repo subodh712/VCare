@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="problems">
+        <item name="fever">"Fever"</item>
+        <item name="sugar">"Sugar"</item>
+        <item name="urination">"urination problem"</item>
+        <item name="nausea">"nausea and vomiting"</item>
+        <item name="cough"> "cough and cold"</item>
+        <item name="breathing">"breathing problem"</item>
+    </array>
+</resources>
